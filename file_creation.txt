@@ -1,0 +1,9 @@
+Ways to create a file with the terminal
+1. touch file_name
+2. cat > file_name
+3. echo > file_name
+
+Ways to append to a file
+1. use >> not >
+
+End the file by pressing ctrl-d
