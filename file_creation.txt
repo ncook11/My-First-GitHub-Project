@@ -7,3 +7,7 @@ Ways to append to a file
 1. use >> not >
 
 End the file by pressing ctrl-d
+
+I have made my first push a couple minutes ago.
+I am now in the .txt file adding new lines to 
+inspect what happens.
